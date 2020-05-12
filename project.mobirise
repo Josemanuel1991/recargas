@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "recargas web",
-    "currentPage": "index.html",
+    "currentPage": "recargas.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -39,7 +39,7 @@
     ],
     "versionFirst": "4.7.6",
     "uniqCompNum": 6,
-    "versionPublish": "4.12.3",
+    "versionPublish": "4.12.2",
     "imageResize": true,
     "favicon": "@PROJECT_PATH@/assets/images/microsoft-icon-icons.com-56595-128x128-1.png",
     "robotsSwitcher": false,
@@ -47,7 +47,8 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "cookiesAlert": false,
-    "gdpr": false
+    "gdpr": false,
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
